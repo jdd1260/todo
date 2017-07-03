@@ -1,0 +1,1 @@
+Todo app that is a work in progress. I'm using this as a way to learn Ruby on Rails and React.
